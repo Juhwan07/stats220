@@ -5,7 +5,7 @@ This repository is for:
 - school work - **stats 220**
 - personal *revision* space
 
-### Part A
+### Part A Website:
 https://juhwan07.github.io/stats220/
 
 
